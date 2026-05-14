@@ -5,7 +5,7 @@ import random
 import os
 
 # --- [1] إعدادات السيادة المطلقة ---
-TOKEN =  8941924717:AAEs1u7JbeSSFDD3C13_QtSrmBBskdR26fM
+TOKEN =  "8941924717:AAEs1u7JbeSSFDD3C13_QtSrmBBskdR26fM"
 GEMINI_KEY = 'AIzaSyCkqEICP3dywWqtnZfCeopqTgxyDFrIeAM'
 ADMIN_ID = 6307919195 
 CASH_NUMBER = "01154578251"

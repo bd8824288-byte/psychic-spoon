@@ -5,10 +5,10 @@ import random
 import os
 
 # --- [1] إعدادات السيادة المطلقة ---
-TOKEN ="8911207861:AAHwaSoG_yQme9qianZdMh_RkOCl1Wsbk3A "
-GEMINI_KEY = 'AIzaSyCkqEICP3dywWqtnZfCeopqTgxyDFrIeAM'
+TOKEN ="8911207861:AAHwaSoG_yQme9qianZdMh_RkOCl1Wsbk3A"
+GEMINI_KEY ='AIzaSyCkqEICP3dywWqtnZfCeopqTgxyDFrIeAM'
 ADMIN_ID = 6307919195 
-CASH_NUMBER = "01154578251"
+CASH_NUMBER ="01154578251"
 
 bot = telebot.TeleBot(TOKEN)
 users_db = {} 

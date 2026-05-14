@@ -5,7 +5,7 @@ import random
 import datetime
 
 # --- [1] إعدادات السيادة والتحكم ---
-TOKEN = 8640447879:AAEspgo4eCATojsaF10fgbL4McYRQ3AAf1I
+TOKEN =  "8640447879:AAEspgo4eCATojsaF10fgbL4McYRQ3Aaf1I"
 GEMINI_KEY = 'AIzaSyCkqEICP3dywWqtnZfCeopqTgxyDFrIeAM'
 ADMIN_ID = 6307919195 
 PAYMENT_NUMBER = "01154578251" # رقم فودافون كاش الخاص بك
